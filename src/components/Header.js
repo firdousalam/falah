@@ -1,6 +1,6 @@
 import React from 'react';
-import damansarac from '../images/damansara-chiropractic.png';
-import damansaracLogo from "../images/damansara-chiropractic-logo.png"
+//import damansarac from '../images/damansara-chiropractic.png';
+import damansaracLogo from "../images/logo.png"
 
 export default function Header() {
 
@@ -10,7 +10,7 @@ export default function Header() {
             <div className="hLeft">
                 <a href="#scrolltop">
                     <span className="logo"><img src={damansaracLogo} alt="" /></span>
-                    <img src={damansarac} alt="damansarac" className="logo logiImage"  />
+                    {/* <img src={damansarac} alt="FALAH" className="logo logiImage"  /> --> */}
                 </a>
             </div>
             <div className="hRight">

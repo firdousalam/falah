@@ -6,7 +6,7 @@ export default function Footer() {
   return ( 
     <section className="footer">
         <div className="wrapper">
-            <p>© {year} Damansara Chiropractic</p>
+            <p>© {year} FALAH ALKHAIR TECHNICAL SERVICES CO.</p>
         </div>
     </section>
   );
