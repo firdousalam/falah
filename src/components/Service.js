@@ -36,7 +36,7 @@ export default function Service() {
                 <div className="sec-Left">
                     <img src={thumbone} alt="" />
                 </div>
-                    <p><strong>HSE (Health Safety and Environment)</strong> Al Qannaatii is a leading provider of world class services to our clients in United Arab Emirates. We believe that the HSE is integral and essential part of the way we do our business. We strive to provide our clients best services keeping in mind the safety and health of our workers/employees and work in a way that no harm is done to the environment.
+                    <p><strong>HSE (Health Safety and Environment)</strong> FALAH ALKHAIR TECHNICAL SERVICES CO is a leading provider of world class services to our clients in United Arab Emirates. We believe that the HSE is integral and essential part of the way we do our business. We strive to provide our clients best services keeping in mind the safety and health of our workers/employees and work in a way that no harm is done to the environment.
 
  
 
