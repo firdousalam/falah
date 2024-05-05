@@ -198,7 +198,7 @@ header .mob-menu{display: none;}
 
     header .wrapper{padding: 8px 9px 8px 24px; align-items: center;}
     header .wrapper .hLeft{padding: 0;}
-    header .logo img{height: 50px;}
+    header .logo img{height: 50px; width:300px}
     header .hLeft .cName{display: none;}
     header .mob-menu{display: inline-block; color: #1C2B77; font-size: 24px; font-weight: 400;padding: 13px 15px; background: transparent;}
     header ul{flex-direction: column; max-height: 0; overflow: hidden; transition: all 0.3s ease-in-out;  padding:0; position: absolute; top: 100%; left: 0; width: 100%; background: #E4EFFF; align-items: flex-start;}
