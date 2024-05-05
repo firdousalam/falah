@@ -21,7 +21,7 @@ export default function Testimonial() {
                         <span className="fa fa-star checked"></span>
                         <span className="fa fa-star checked"></span>
                     </span>
-                    <p>Kenny has been very helpful throughout the few sessions i had and also explain my condition to me clearly and what can be done to manage it better. Treatments</p>
+                    <p>FALAH ALKHAIR has been very helpful throughout the few sessions i had and also explain my condition to me clearly and what can be done to manage it better. Treatments</p>
                     <a href="#" className="more">Read more</a>
                 </div>
                 <div className="rcard">
@@ -34,7 +34,7 @@ export default function Testimonial() {
                         <span className="fa fa-star checked"></span>
                         <span className="fa fa-star checked"></span>
                     </span>
-                    <p>Kenny has been very helpful throughout the few sessions i had and also explain my condition to me clearly and what can be done to manage it better. Treatments were quick and he walks me through it and manages my expectations, so I know what to expect. I have lesser issues with my lower back issues and less tense shoulders now. Overall experience has been good, and would come back again for treatment/ maintenance.</p>
+                    <p>FALAH ALKHAIR has been very helpful throughout the few sessions i had and also explain my condition to me clearly and what can be done to manage it better. Treatments were quick and he walks me through it and manages my expectations, so I know what to expect. I have lesser issues with my lower back issues and less tense shoulders now. Overall experience has been good, and would come back again for treatment/ maintenance.</p>
                     {/*<a href="#" className="more">Read more</a> --> */}
                 </div>
                 <div className="rcard">
@@ -47,7 +47,7 @@ export default function Testimonial() {
                         <span className="fa fa-star"></span>
                         <span className="fa fa-star"></span>
                     </span>
-                    <p>Kenny has been very helpful throughout the few sessions i had and also explain my condition to me clearly and what can be done to manage it better. Treatments</p>
+                    <p>FALAH ALKHAIR has been very helpful throughout the few sessions i had and also explain my condition to me clearly and what can be done to manage it better. Treatments</p>
                     <a href="#" className="more">Read more</a>
                 </div>
                 <div className="rcard">
@@ -60,7 +60,7 @@ export default function Testimonial() {
                         <span className="fa fa-star checked"></span>
                         <span className="fa fa-star"></span>
                     </span>
-                    <p>Kenny has been very helpful throughout the few sessions i had and also explain my condition to me clearly and what can be done to manage it better. Treatments</p>
+                    <p>FALAH ALKHAIR has been very helpful throughout the few sessions i had and also explain my condition to me clearly and what can be done to manage it better. Treatments</p>
                     <a href="#" className="more">Read more</a>
                 </div>
             </div>
