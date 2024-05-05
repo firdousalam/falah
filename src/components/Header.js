@@ -1,6 +1,6 @@
 import React from 'react';
 //import damansarac from '../images/damansara-chiropractic.png';
-import damansaracLogo from "../images/logo.png"
+import damansaracLogo from "../images/A.png"
 
 export default function Header() {
 
