@@ -9,7 +9,7 @@ export default function Header() {
         <div className="wrapper">
             <div className="hLeft">
                 <a href="#scrolltop">
-                    <span className="logo"><img src={damansaracLogo} alt="" width={300} height={150}/></span>
+                    <span className="logo"><img src={damansaracLogo} alt="" width={400} height={100}/></span>
                     {/* <img src={damansarac} alt="FALAH" className="logo logiImage"  /> --> */}
                 </a>
             </div>
